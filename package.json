@@ -19,5 +19,8 @@
   "license": "Creative Commons Attribution-NonCommercial-Share Alike 3.0",
   "devDependencies": {
     "web-ext": "^5.0.0"
+  },
+  "dependencies": {
+    "cypress": "^14.5.1"
   }
 }
